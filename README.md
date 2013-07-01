@@ -2,7 +2,7 @@
 
 ##Description
 
-This package contains Entypo's icons sprite in both blacn and white, large and small.
+This package contains Entypo's icons sprite in both black and white, large and small. Social icons include 20x20 black, white and colored.
 Big thanks to Jordan Singer (https://github.com/jordansinger) for taking the time to create this.
 
 	- Entypo Sprite is maintained by Jordan Singer, Daniel Haim
@@ -13,11 +13,17 @@ Big thanks to Jordan Singer (https://github.com/jordansinger) for taking the tim
 	- bl = black large
 	- ws = white small
 	- wl = white large
+	
+	- b = black (social)
+	- w = white (social)
+	- c = colored (social)
 
 ###Sizes
 
 	- l = 50x50px
 	- s = 35x35px
+	
+	(all social icons are 20x20)
 
 ##Usage
 
@@ -41,9 +47,12 @@ Big thanks to Jordan Singer (https://github.com/jordansinger) for taking the tim
 <i class="comment-bl"></i>
 <i class="comment-bl"></i>
 
+<i class="twitter-b"></i>
+<i class="twitter-w"></i>
+<i class="twitter-c"></i>
+
 ```
 
 ##To-do List
 
-- Social media icons (black, white, brand colors)
 - Additional sprite colors (based on requests)
